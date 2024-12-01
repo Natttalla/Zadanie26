@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+.slimak{
+    height: 100px;
+    width: auto;
+    float: left;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: lightgoldenrodyellow;
+}
+
+.slimakul{
+    list-style-type: circle;
+    color: red;
+}
+
+.rybyul{
+    list-style-type: square;
+    color: blue;
+}
+aside{
+    width: 40%;
+    height: 500px;
+    float: left;
+    background-color: lightgray;
+}
+
+.ryba{
+    display: block;
+    width: 60%;
+    float: right;
+    height: 500px;
+}
+
+
+div {
+    background-color: white;
+    border: 10px outset brown;
+    width: 200px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+div:hover {
+    cursor: pointer;
+    background-color: black;
+}
+
+a {
+    color: darkgreen;
+}
+
+a:visited {
+    color: darkred;
+}
+
+p {
+    color: red;
+}
+
+footer {
+    background-color: lightgoldenrodyellow;
+    text-align: right;
+    clear: both;
+}
+
+aside{
+    clear: both;
+}
+
+
